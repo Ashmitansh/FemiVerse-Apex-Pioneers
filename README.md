@@ -122,7 +122,7 @@ femiverse/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/fatimahasan-82/FemiVerse.git
+git clone https://github.com/Ashmitansh/FemiVerse-Apex-Pioneers.git
 cd FemiVerse
 ```
 
