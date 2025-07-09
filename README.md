@@ -41,7 +41,7 @@ FemiVerse addresses the lack of women-specific digital health tools by deliverin
 
 ### **Deployment**
 
-- **Hosted on Vercel**
+- **Hosted on Vercel**: https://femiverseai.vercel.app/
 
 ---
 
